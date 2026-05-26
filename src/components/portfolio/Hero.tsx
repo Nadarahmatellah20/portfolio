@@ -29,8 +29,8 @@ export function Hero() {
               View Projects
             </a>
             <a
-              href="/cv_nadaa.pdf"
-              download="Nada_CV.pdf"
+              href="/cv de nada.pdf"
+              download="cv de nada.pdf"
               className="glass px-6 py-3 rounded-full font-medium hover-lift inline-block"
             >
               Download CV
